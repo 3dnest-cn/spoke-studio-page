@@ -1,0 +1,1 @@
+body,html{margin:0;padding:0;height:100%;overflow:hidden}.panel{position:absolute;top:10px;left:10px;padding:10px;width:200px;height:200px;background-color:#fff}.panel input{margin-bottom:10px;width:130px}.panel span{margin-left:5px}#app{height:100%;position:relative}#app .drawing{width:100%;height:100%;line-height:0}
